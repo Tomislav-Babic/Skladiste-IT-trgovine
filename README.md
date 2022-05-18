@@ -1,4 +1,4 @@
-# Projektni
+# Projektni: Skladište IT trgovine
 Projektni zadatak za Programiranje 2
 
 Opis:
