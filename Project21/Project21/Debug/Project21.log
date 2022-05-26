@@ -1,0 +1,10 @@
+﻿  functions.c
+C:\Users\student\source\repos\Project21\Project21\functions.c(43,69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\student\source\repos\Project21\Project21\functions.c(47,8): warning C4477: 'scanf' : format string '%19[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\student\source\repos\Project21\Project21\functions.c(50,8): warning C4477: 'scanf' : format string '%19[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\student\source\repos\Project21\Project21\functions.c(102,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'char *const *'
+C:\Users\student\source\repos\Project21\Project21\functions.c(102,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'char *const *'
+C:\Users\student\source\repos\Project21\Project21\functions.c(127,45): warning C4047: '==': 'int' differs in levels of indirection from 'char *[40]'
+C:\Users\student\source\repos\Project21\Project21\functions.c(129,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'char **'
+C:\Users\student\source\repos\Project21\Project21\functions.c(129,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'char **'
+  Project21.vcxproj -> C:\Users\student\source\repos\Project21\Debug\Project21.exe
