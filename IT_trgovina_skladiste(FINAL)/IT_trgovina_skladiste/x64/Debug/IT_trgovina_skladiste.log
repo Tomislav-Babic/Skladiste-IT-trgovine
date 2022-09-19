@@ -1,0 +1,6 @@
+﻿  izbornik.c
+C:\Users\Tomislav\source\repos\IT_trgovina_skladiste\IT_trgovina_skladiste\izbornik.c(59,34): warning C4020: 'ispisiSortirano': too many actual parameters
+C:\Users\Tomislav\source\repos\IT_trgovina_skladiste\IT_trgovina_skladiste\izbornik.c(71,34): warning C4020: 'ispisiSortirano': too many actual parameters
+C:\Users\Tomislav\source\repos\IT_trgovina_skladiste\IT_trgovina_skladiste\izbornik.c(89,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\Tomislav\source\repos\IT_trgovina_skladiste\IT_trgovina_skladiste\izbornik.c(90,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+  IT_trgovina_skladiste.vcxproj -> C:\Users\Tomislav\source\repos\IT_trgovina_skladiste\x64\Debug\IT_trgovina_skladiste.exe
