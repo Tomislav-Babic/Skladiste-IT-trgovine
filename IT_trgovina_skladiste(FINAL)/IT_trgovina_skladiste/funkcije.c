@@ -31,7 +31,7 @@ void dodajArtikl(const char* const ime) {
 	FILE* fp = fopen(ime, "rb+");
 
 	if (fp == NULL) {
-		perror("Dodavanje puske u datoteku skladiste.bin");
+		perror("Dodavanje artikla u datoteku skladiste.bin");
 		exit(EXIT_FAILURE);
 	}
 
@@ -197,7 +197,7 @@ void* sortirajPoCijeni(const ARTIKL* polje) {
 void ispisiSortirano(const ARTIKL* polje, int po) {
 
 	if (brojArtikala == 0) {
-		printf("Polje pusaka prazno\n");
+		printf("Polje artikala prazno\n");
 		return;
 	}
 
